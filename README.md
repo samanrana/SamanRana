@@ -76,9 +76,6 @@
  
  <table align="center">
   <tr align="center">
-    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(13).jpeg"></td>
-    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(14).jpeg"></td>
-      
    
     <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(3).jpeg"></td>
     <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(4).jpeg"></td>
