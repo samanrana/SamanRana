@@ -65,27 +65,15 @@
 ✔Firebase Integration and more, etc
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
-<p >
-<p><img align="center"  height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg" alt="samanrana" /></img></p> <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(2).jpeg" alt="samanrana" /></img></p>  <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(3).jpeg" alt="samanrana" /></p>  <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(4).jpeg" alt="samanrana" /></p>
-</p>
-<br></br>
-
-<p float="left"><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg" alt="samanrana" /></p>
-<p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg" alt="samanrana" /></p>
-<p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg" alt="samanrana" /></p>
-<p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg" alt="samanrana" /></p>
 
 <br></br>
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-    <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-    <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+    <td valign="top"><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-                   22%20at%201.03.13%20AM%20(9).jpeg" alt="samanrana" /></td>
+     
+    <td valign="top"><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-                   22%20at%201.03.13%20AM%20(9).jpeg" alt="samanrana" /></td>
+    
+    <td valign="top"><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-                   22%20at%201.03.13%20AM%20(9).jpeg" alt="samanrana" /></td>
   </tr>
  </table>
 
