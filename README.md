@@ -68,6 +68,7 @@
 
 <br></br>
 <table>
+  <p>
   <tr>
     <td valign="top"><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-                   22%20at%201.03.13%20AM%20(9).jpeg" alt="samanrana" /></td>
      
@@ -75,6 +76,7 @@
     
     <td valign="top"><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-                   22%20at%201.03.13%20AM%20(9).jpeg" alt="samanrana" /></td>
   </tr>
+    </p>
  </table>
 
 <h3 align="center">--- Connect with me ---</h3>
