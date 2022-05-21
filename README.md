@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **React native, Laravel**
 
-- 📫 How to reach me **samanranaw1@gmail.com**
+- 📫 Reach me **samanranaw1@gmail.com**
+
+- ⚡ Skills **React Native(Android + IOs), Laravel, Custom Applications, Responsive UIs development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
