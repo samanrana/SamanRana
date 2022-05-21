@@ -76,10 +76,10 @@
  
  <table>
   <tr>
-    <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-  <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-    <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-    <td valign="top"><img src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+  <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
       
   </tr>
  </table>
