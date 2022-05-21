@@ -66,7 +66,13 @@
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
 <p >
-<p><img align="center"  height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg" alt="samanrana" /></p> <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(2).jpeg" alt="samanrana" /></p>  <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(3).jpeg" alt="samanrana" /></p>  <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(4).jpeg" alt="samanrana" /></p>
+<p><img align="center"  height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg" alt="samanrana" /></img></p> <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(2).jpeg" alt="samanrana" /></img></p>  <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(3).jpeg" alt="samanrana" /></p>  <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(4).jpeg" alt="samanrana" /></p>
+</p>
+<br></br>
+
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saman-rana-1ab6b0196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saman-rana-1ab6b0196/" height="30" width="40" /></a>
+<a href="https://instagram.com/saman_rana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saman_rana1" height="30" width="40" /></a>
 </p>
 <br></br>
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg" alt="samanrana" /></p>
