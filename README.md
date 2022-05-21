@@ -31,6 +31,31 @@
 
 - Working on Fiverr as a freelancing
 <br></br>
+<h2 align="center">Skills</h2>
+
+✔Perfect Interface Design
+
+✔In-app Purchase integration
+
+✔Push Notifications
+
+✔Social Media Integration
+
+✔SMS OTP integration
+
+✔API Integration
+
+✔Database Driven App Development
+
+✔Google map Integration
+
+✔Payment integration
+
+✔React native third party integration
+
+✔Firebase Integration and more, etc
+<br></br>
+
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
