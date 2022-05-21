@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
 <h3 align="center">A passionate React Native + Laravel developer</h3>
 
 - 🔭 I’m currently working on [HalalGuide](https://myhalallocation.pigslhub.com/user)
 
-- 🤝 I’m looking for help with [VitalPersuit](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
+- 👨‍💻 One of my project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
 - 💬 Ask me about **React native, Laravel**
 
@@ -13,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samanrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samanrana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saman rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saman rana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saman-rana-1ab6b0196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saman-rana-1ab6b0196/" height="30" width="40" /></a>
 <a href="https://fb.com/saman rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saman rana" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/saman_rana1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/saman_rana1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
