@@ -65,9 +65,6 @@
 ✔Firebase Integration and more, etc
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
-
-<br></br>
-
  <table align="center">
   <tr align="center">
     <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
@@ -77,11 +74,6 @@
       <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
       
   </tr>
-
- 
- 
- 
- 
  <br></br>
  
   <tr align="center">
@@ -92,9 +84,6 @@
       <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
  
   </tr>
-   
-   <br></br>
-   
 
 <br></br>
 
@@ -108,10 +97,6 @@
       
   </tr>
  </table>
- 
- 
- 
- 
 
 <h3 align="center">--- Connect with me ---</h3>
 
