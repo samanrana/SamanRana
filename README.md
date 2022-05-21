@@ -13,7 +13,7 @@
 
 - ⚡ Skills **React Native(Android + IOs), Laravel, Custom Applications, Responsive UIs development**
 <br></br>
-<h3 align="center">Experience</h3>
+<h2 align="center">Experience</h2>
 
 
 - Worked in PigslHub software house from 2019 - 2022 as a React native and Laravel developer
@@ -23,7 +23,7 @@
 - Working on Fiverr as a freelancing
 
 <br></br>
-<h3 align="center">Education</h3>
+<h2 align="center">Education</h2>
 
 - Worked in PigslHub software house from 2019 - 2022 as a React native and Laravel developer
 
