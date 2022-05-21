@@ -65,12 +65,12 @@
 ✔Firebase Integration and more, etc
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
-
+<p flexDirection="row">
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg" alt="samanrana" /></p>
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(2).jpeg" alt="samanrana" /></p>
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(3).jpeg" alt="samanrana" /></p>
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(4).jpeg" alt="samanrana" /></p>
-
+</p>
 <br></br>
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg" alt="samanrana" /></p>
 <p><img align="center" height="300px" width="150px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg" alt="samanrana" /></p>
