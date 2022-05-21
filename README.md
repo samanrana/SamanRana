@@ -66,7 +66,7 @@
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
 
-<p><img align="center" height="50px" width="50px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg" alt="samanrana" /></p>
+<p><img align="center" height="300px" width="200px" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg" alt="samanrana" /></p>
 <br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samanrana&show_icons=true&locale=en" alt="samanrana" /></p>
 <br></br>
