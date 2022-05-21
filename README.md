@@ -31,7 +31,7 @@
 
 - Working on Fiverr as a freelancing
 <br></br>
-<h2 align="center">Skills</h2>
+<h2 align="center">---Skills---</h2>
 
 ✔Perfect Interface Design
 
