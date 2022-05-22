@@ -67,8 +67,10 @@
 <h3 align="center">--- Portfolio and projects ---</h3>
  <table align="center">
   <tr align="center">
-    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
-  <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg"></td>
+  <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+
+   <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-
+     22%20at%201.03.14%20AM.jpeg"></td>
     <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
     <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
       <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
