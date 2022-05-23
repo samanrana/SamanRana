@@ -19,9 +19,8 @@
 
 💠 📫 Reach me **samanranaw1@gmail.com**
 
-💠 📫 Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
+💠 ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
 
-💠 ⚡ Skills **React Native(Android + IOs), Laravel, Custom Applications, Responsive UIs development**
 <br></br>
 <h2 align="center">--- Experience ---</h2>
 
@@ -73,6 +72,8 @@
 ✔ In-app Purchase integration
 
 ✔ React native third party integration
+
+✔ Laravel for website, Admin panel and API creation
 
 ✔ Firebase Integration and more, etc
 
