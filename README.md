@@ -128,7 +128,7 @@ Vital Pursuit is a latest health and fitness application that include training p
 <br></br>
 <br></br>
 <h4>Halal Guide application</h4>
-Halal Guide is basically for Muslims that check the list of all restaurants that provide halal products and halal food using Google Map. Besides that, there are many categories like NGOs, shopping malls, and finance locations that make a large domain as a halal Guide for the Muslims
+Halal Guide is basically for Muslims that check the list of all restaurants that provide halal products and halal food using Google Map. Besides that, there are many categories like NGOs, shopping malls, and finance locations that make a large domain as a halal Guide for the Muslims and it's under development.
 
 <h4>💠 ScreenShots </h4>
 
