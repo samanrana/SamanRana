@@ -11,15 +11,15 @@
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
 <h3 align="center">A passionate React Native + Laravel developer</h3>
 
-💠 🔭 I’m currently working on [HalalGuide](https://myhalallocation.pigslhub.com/user)
+ 🔭 I’m currently working on [HalalGuide](https://myhalallocation.pigslhub.com/user)
 
-💠 👨‍💻 One of my project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
+ 👨‍💻 One of my project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
-💠 💬 Ask me about **React native, Laravel**
+ 💬 Ask me about **React native, Laravel**
 
-💠 📫 Reach me **samanranaw1@gmail.com**
+ 📫 Reach me **samanranaw1@gmail.com**
 
-💠 ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
+ ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
 
 <br></br>
 <h2 align="center">--- Experience ---</h2>
