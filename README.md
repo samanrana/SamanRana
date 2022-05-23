@@ -124,7 +124,8 @@ Vital Pursuit is a latest health and fitness application that include training p
   </tr>
  </table>
 
-
+<br></br>
+<br></br>
 <h4>Halal Guide application</h4>
 Halal Guide is basically for Muslims that check the list of all restaurants that provide halal products and halal food using Google Map. Besides that, there are many categories like NGOs, shopping malls, and finance locations that make a large domain as a halal Guide for the Muslims
 
@@ -180,12 +181,23 @@ Halal Guide is basically for Muslims that check the list of all restaurants that
  </tr>
 
 </table>
+<br></br>
 
 https://user-images.githubusercontent.com/53090286/169720370-8fb0fad6-ebee-4d42-a637-038097f20066.mp4
 
 https://user-images.githubusercontent.com/53090286/169720529-58b71361-72ad-4225-ab7c-546b04fe387b.mp4
 
+<br></br>
+<h4>Food App</h4>
 
+1) Food Application user side generate QR code when order is placed 
+2) Restaurant will scan the QR code and check all listed ordered item using Restaurant application scanner.  
+
+https://user-images.githubusercontent.com/53090286/169724664-db4c5fc1-32b7-4497-9ef8-81a05d6da2d7.mp4
+
+https://user-images.githubusercontent.com/53090286/169724733-aaeb34a5-c11c-479b-98bd-b812a5201fcf.mp4
+
+<br></br>
 <h3 align="center">--- Connect with me ---</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saman-rana-1ab6b0196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saman-rana-1ab6b0196/" height="30" width="40" /></a>
