@@ -22,6 +22,16 @@
  ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
 
 <br></br>
+
+<h2 align="center">--- Education ---</h2>
+
+💠 BS Software Engineering from Punjab University. Session (2016 - 2020) 
+
+💠 ICS Punjab Board (2015 - 2016)
+
+💠 Office Management Diploma. Certified from The RoyalEdge 
+<br></br>
+
 <h2 align="center">--- Experience ---</h2>
 
 
@@ -31,14 +41,6 @@
 
 💠 Working on Fiverr as a freelancing
 
-<br></br>
-<h2 align="center">--- Education ---</h2>
-
-💠 BS Software Engineering from Punjab University. Session (2016 - 2020) 
-
-💠 ICS Punjab Board (2015 - 2016)
-
-💠 Office Management Diploma. Certified from The RoyalEdge 
 <br></br>
 
 <h2 align="center">--- Languages ---</h2>
