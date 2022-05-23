@@ -175,8 +175,8 @@ Halal Guide is basically for Muslims that check the list of all restaurants that
  
    <td valign="top"><img height="300px" width="150" src="https://user-images.githubusercontent.com/53090286/169722911-83fc9c87-c37f-42af-a33e-a0a81fdc7b3a.jpeg">       </td>
    <td valign="top"><img height="300px" width="150" src="https://user-images.githubusercontent.com/53090286/169722914-94fff9cf-5209-4421-a019-de272861b7c4.jpeg">       </td>
- 
-
+   <td valign="top"><img height="300px" width="150" src="https://user-images.githubusercontent.com/53090286/169728381-c869dd06-36ba-420b-9f73-ef6df758dc5a.png">       </td>
+   <td valign="top"><img height="300px" width="150" src="https://user-images.githubusercontent.com/53090286/169728392-c1037c9a-3a6c-4cbf-a323-b4996afd5ab2.png">       </td>
 <!--    <td valign="top"><img height="300px" width="150" src="">       </td>
    <td valign="top"><img height="300px" width="150" src="">       </td>
    <td valign="top"><img height="300px" width="150" src="">       </td> -->
