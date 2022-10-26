@@ -21,6 +21,10 @@
 
  ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
 
+ ⚡ LinkedIn Profile [Saman Rana Cross-platform application developer](https://www.linkedin.com/in/saman-rana-1ab6b0196/)
+
+
+
 <br></br>
 
 <h2 align="center">--- Education ---</h2>
