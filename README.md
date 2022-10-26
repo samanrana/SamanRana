@@ -9,7 +9,7 @@
 🏴🏳🚩🏁 -->
 
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
-<h3 align="center">A passionate React Native + Laravel developer</h3>
+<h3 align="center">React Native developer</h3>
 
  🔭 I’m currently working on [Share Slate](https://apps.apple.com/pk/app/share-slate/id6443570782)
 
