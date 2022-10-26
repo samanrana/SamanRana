@@ -15,7 +15,7 @@
 
  👨‍💻 One of my project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
- 💬 Ask me about **React native, Laravel**
+ 💬 Ask me about **React native**
 
  📫 Reach me **samanranaw1@gmail.com**
 
