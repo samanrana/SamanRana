@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
 <h3 align="center">A passionate React Native + Laravel developer</h3>
 
- 🔭 I’m currently working on [HalalGuide](https://myhalallocation.pigslhub.com/user)
+ 🔭 I’m currently working on [Share Slate](https://apps.apple.com/pk/app/share-slate/id6443570782)
 
  👨‍💻 One of my project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
