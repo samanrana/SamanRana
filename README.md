@@ -73,11 +73,13 @@
 
 ✔ Social Media Integration
 
-✔ Database Driven App Development
-
 ✔ In-app Purchase integration
 
+✔ Database Driven App Development
+
 ✔ React native third party integration
+
+✔ Audio Video calling and reall time chat Applications
 
 ✔ Laravel for website, Admin panel and API creation
 
