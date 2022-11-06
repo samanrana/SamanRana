@@ -33,7 +33,6 @@
 
 💠 ICS Punjab Board (2015 - 2016)
 
-💠 Office Management Diploma. Certified from The RoyalEdge 
 <br></br>
 
 <h2 align="center">--- Experience ---</h2>
