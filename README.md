@@ -94,17 +94,17 @@
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant) -->
-<h4><b>Share Slate Application</b></h4>
+<h1>Share Slate Application</h1>
 Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
 
 
-<h4>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h4>
+<h3>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h3>
 
 
-<h4>Vital Pursuit Application</h4>
+<h1>Vital Pursuit Application</h1>
 Vital Pursuit is a latest health and fitness application that include training programs, movement and exercise video lectures and education to optimise performance and help prevent injury
 
-<h4>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h4>
+<h3>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h3>
 
 <h4>💠 TestFlight </h4>
 <img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.07.18%20AM.jpeg">
@@ -142,7 +142,7 @@ Vital Pursuit is a latest health and fitness application that include training p
 
 <br></br>
 <br></br>
-<h4>Halal Guide application</h4>
+<h1>Halal Guide application</h1>
 Halal Guide is basically for Muslims that check the list of all restaurants that provide halal products and halal food using Google Map. Besides that, there are many categories like NGOs, shopping malls, and finance locations that make a large domain as a halal Guide for the Muslims and it's under development.
 
 <h4>💠 ScreenShots </h4>
