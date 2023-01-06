@@ -99,8 +99,6 @@ Share Slate is a social networking application that allow you to create, share a
 
 
 <h3>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h3>
-
-<br></br>
 <br></br>
 
 <h1>Vital Pursuit Application</h1>
