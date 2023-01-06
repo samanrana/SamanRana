@@ -19,7 +19,7 @@
 
  📫 Reach me **samanranaw1@gmail.com**
 
- ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native)
+<!--  ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native) -->
 
  ⚡ LinkedIn Profile [Saman Rana Cross-platform application developer](https://www.linkedin.com/in/saman-rana-1ab6b0196/)
 
@@ -38,7 +38,9 @@
 <h2 align="center">--- Experience ---</h2>
 
 
-💠 Worked in PigslHub software house from 2019 - 2022 as a React native and Laravel developer
+💠 Working in XDOT software house from 2022 - current as a React Native Developer
+
+💠 Worked in PigslHub software house from 2019 - 2022 as a React Native and Laravel Developer
 
 💠 Work with Technovation software house on freelancing projects of React Native
 
@@ -92,6 +94,12 @@
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant) -->
+<h4>Share Slate Application</h4>
+Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
+
+
+<h4>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h4>
+
 
 <h4>Vital Pursuit Application</h4>
 Vital Pursuit is a latest health and fitness application that include training programs, movement and exercise video lectures and education to optimise performance and help prevent injury
