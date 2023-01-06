@@ -94,7 +94,7 @@
 [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 [![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant) -->
-<h4>Share Slate Application</h4>
+<h6>Share Slate Application</h6>
 Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
 
 
