@@ -11,15 +11,13 @@
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
 <h3 align="center">React Native developer</h3>
 
- 🔭 I’m currently working on [Share Slate](https://apps.apple.com/pk/app/share-slate/id6443570782)
+ 🔭 I’m also working on [Share Slate](https://apps.apple.com/pk/app/share-slate/id6443570782)
 
- 👨‍💻 One of my project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
+ 👨‍💻 One of my recent project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
  💬 Ask me about **React native**
 
  📫 Reach me **samanranaw1@gmail.com**
-
-<!--  ⚡ Fiverr Profile [Saman Cross-platform application developer](https://www.fiverr.com/sumbal_rana3/build-cross-platform-android-and-ios-app-using-react-native) -->
 
  ⚡ LinkedIn Profile [Saman Rana Cross-platform application developer](https://www.linkedin.com/in/saman-rana-1ab6b0196/)
 
@@ -31,18 +29,18 @@
 
 💠 BS Software Engineering from Punjab University. Session (2016 - 2020) 
 
-💠 ICS Punjab Board (2015 - 2016)
 
 <br></br>
 
 <h2 align="center">--- Experience ---</h2>
 
+💠 Currently working in Questy USA as a Remote React Native Developer
 
-💠 Working in XDOT software house from 2022 - current as a React Native Developer
+💠 Working in XDOT software house from 2022 - 2023 as a React Native Developer
 
 💠 Worked in PigslHub software house from 2019 - 2022 as a React Native and Laravel Developer
 
-💠 Work with Technovation software house on freelancing projects of React Native
+💠 Worked with Technovation software house on freelancing projects of React Native
 
 💠 Working on Fiverr as a freelancing
 
