@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
 <h3 align="center">React Native developer</h3>
 
- 🔭 I’m also working on [Share Slate](https://apps.apple.com/pk/app/share-slate/id6443570782)
+ 🔭 I’m also working on [Qvesty](https://apps.apple.com/us/app/qvesty-home-service-made-easy/id6449968394)
 
  👨‍💻 One of my recent project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
@@ -19,7 +19,7 @@
 
  📫 Reach me **samanranaw1@gmail.com**
 
- ⚡ LinkedIn Profile [Saman Rana Cross-platform application developer](https://www.linkedin.com/in/saman-rana-1ab6b0196/)
+ ⚡ LinkedIn Profile [Saman Rana Cross-platform application developer](https://www.linkedin.com/in/samanrana1/)
 
 
 
