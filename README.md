@@ -74,28 +74,11 @@
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
 
-<!-- [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
-[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant) -->
-<h1>Share Slate Application</h1>
-Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
-
-
-<h3>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h3>
-<br></br>
-
-<h1>Vital Pursuit Application</h1>
+<h1>Ecom</h1>
 Vital Pursuit is a latest health and fitness application that include training programs, movement and exercise video lectures and education to optimise performance and help prevent injury
 
-<h3>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h3>
 
-<h4>💠 TestFlight </h4>
-<img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.07.18%20AM.jpeg">
 
-<h4>💠 ScreenShots </h4>
-<h4>💠 Ecom </h4>
 <table align="center">
   <tr align="center">
    <td valign="top"><img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(8).jpeg"></td>
@@ -128,6 +111,31 @@ Vital Pursuit is a latest health and fitness application that include training p
 
 <br></br>
 <br></br>
+
+
+(https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+(https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+(https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+(https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+(https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+
+
+<h1>Share Slate Application</h1>
+Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
+
+
+<h3>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h3>
+<br></br>
+
+<h1>Vital Pursuit Application</h1>
+Vital Pursuit is a latest health and fitness application that include training programs, movement and exercise video lectures and education to optimise performance and help prevent injury
+
+<h3>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h3>
+
+<h4>💠 TestFlight </h4>
+<img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.07.18%20AM.jpeg">
+
+<h4>💠 ScreenShots </h4>
 
 
 <table align="center">
