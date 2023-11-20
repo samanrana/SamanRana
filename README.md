@@ -34,7 +34,7 @@
 
 <h2 align="center">--- Experience ---</h2>
 
-💠 Currently working in Questy USA as a Remote React Native Developer
+💠 Currently working in [Qvesty](https://www.linkedin.com/company/qvesty/) California, USA as a Remote React Native Developer
 
 💠 Working in XDOT software house from 2022 - 2023 as a React Native Developer
 
@@ -46,43 +46,30 @@
 
 <br></br>
 
-<h2 align="center">--- Languages ---</h2>
-
-💠 Urdu (Native)
-
-💠 Punjabi (Native)
-
-💠 English (Conversational)
-<br></br>
 <h2 align="center">--- Skills ---</h2>
 
-✔ React Native responsive application
-
-✔ Perfect Interface Design
-
-✔ API Integration
-
-✔ Push Notifications
-
-✔ Payment integration
-
-✔ SMS OTP integration
-
-✔ Google map Integration
-
-✔ Social Media Integration
-
-✔ In-app Purchase integration
-
-✔ Database Driven App Development
-
-✔ React native third party integration
-
-✔ Audio Video calling and reall time chat Applications
-
-✔ Laravel for website, Admin panel and API creation
-
-✔ Firebase Integration and more, etc
+✔ JavaScript including ES6+ syntax 
+✔ Strong experience with React Native  
+✔ React Hooks  
+✔ Experience Socket handling  
+✔ Experience App tracking  
+✔ Integration with RESTFul APIs  
+✔ Experience with Stream Chat  
+✔ Experience with Redux toolkit  
+✔ Experience with Stripe  
+✔ Experience with Async Storage  
+✔ React Navigation and React Router  
+✔ Experience with Push-Notification  
+✔ Experience with Google Maps and APIs  
+✔ Experience Multi language Feature  
+✔ Experience with Firebase crashlytics, analytics  
+✔ Experience with Firebase Push notification and chat handling,  
+✔ Experience with Sterling for background Security check  
+✔ Experience with Plaid integration  
+✔ Experience about unit testing  
+✔ Strong Knowledge of Git and GitHub  
+✔ Basics of CSS, HTML and PHP  
+✔ SQL , C++ 
 
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
