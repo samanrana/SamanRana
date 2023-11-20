@@ -8,8 +8,27 @@
 
 🏴🏳🚩🏁 -->
 
+
 <h1 align="center">Hi 👋, I'm Saman Rana</h1>
 <h3 align="center">React Native developer</h3>
+
+<p align="center">
+ 
+<a href="https://www.linkedin.com/in/samanrana1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samanrana1/" height="30" width="40" /></a>
+
+<a href="https://instagram.com/saman_rana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saman_rana1" height="30" width="40" /></a>
+
+  
+<a href="https://www.linkedin.com/company/skysaman" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/company.png" alt="Your Company Profile" height="30" width="30" />
+</a>
+
+
+<a href="https://www.linkedin.com/company/skysaman" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Your Website" height="30" width="30" />
+</a>
+</p>
+
 
  🔭 I’m also working on [Qvesty](https://apps.apple.com/us/app/qvesty-home-service-made-easy/id6449968394)
 
@@ -239,10 +258,21 @@ https://user-images.githubusercontent.com/53090286/169724733-aaeb34a5-c11c-479b-
 
 <br></br>
 <h3 align="center">--- Connect with me ---</h3>
+
+
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saman-rana-1ab6b0196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saman-rana-1ab6b0196/" height="30" width="40" /></a>
 <a href="https://instagram.com/saman_rana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saman_rana1" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/your-username" target="_blank">
+<a href="https://your-company-website.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/company.png" alt="Your Company Profile" height="30" width="30" />
+</a>
+<a href="https://your-website.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="Your Website" height="30" width="30" />
+</a>
 </p>
+
+  
 <br></br>
 <h3 align="center">--- Languages and Tools ---</h3>
 
