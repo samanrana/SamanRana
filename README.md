@@ -28,6 +28,11 @@
   <a href="https://www.linkedin.com/company/skysaman" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" height="30" width="30" />
   </a>
+
+<a href="https://www.upwork.com/freelancers/~01bf788268aa42a70e" target="_blank">
+  <img src="https://icons-for-free.com/iconfiles/png/512/Upwork-1329545834972375892.png" alt="Upwork Profile" height="28" width="28" />
+</a>
+
 </p>
 
 
