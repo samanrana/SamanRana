@@ -109,10 +109,6 @@ Vital Pursuit is a latest health and fitness application that include training p
 <br></br>
 <br></br>
 
-
-[![GitHub](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/your-username/your-repository)
-
-
 <h1>Share Slate Application</h1>
 Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
 
@@ -125,8 +121,6 @@ Vital Pursuit is a latest health and fitness application that include training p
 
 <h3>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h3>
 
-<h4>💠 TestFlight </h4>
-<img height="300px" width="150" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.07.18%20AM.jpeg">
 
 <h4>💠 ScreenShots </h4>
 
