@@ -57,36 +57,36 @@ Vital Pursuit is a latest health and fitness application that include training p
 
 <table align="center">
   <tr align="center">
-   <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(8).jpeg"></td>
-   <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM.jpeg"></td>
-   <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg"></td>
-   <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(7).jpeg"></td>
+   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(8).jpeg"></td>
+   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM.jpeg"></td>
+   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg"></td>
  </tr>
  <br></br>
   <tr align="center">
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(6).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(5).jpeg"></td>  
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg"></td>     
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(7).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(6).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(5).jpeg"></td>  
 </tr>
 <br></br>
 <tr align="center">
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
-
-
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg"></td>     
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg"></td>
    </tr>
 <tr align="center">
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(12).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(13).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/ugWAyv.png"></td> 
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(3).jpeg"></td>
- </tr>
+ <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
+</tr>
 <tr align="center">
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(4).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(9).jpeg"></td>     
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(12).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(13).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/ugWAyv.png"></td> 
+</tr>
+<tr align="center">
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(3).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(4).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(9).jpeg"></td>     
   </tr>
  </table>
 
@@ -111,31 +111,31 @@ Vital Pursuit is a latest health and fitness application that include training p
 
 <table align="center">
   <tr align="center">
-   <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(8).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM.jpeg"></td>
-    <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg"></td>
-   <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(7).jpeg"></td>
-    <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(6).jpeg"></td>
- <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(5).jpeg"></td>  
+   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(8).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM.jpeg"></td>
+    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg"></td>
+   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(7).jpeg"></td>
+    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(6).jpeg"></td>
+ <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(5).jpeg"></td>  
   </tr>
  <br></br>
   <tr align="center">
- <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg"></td>     
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg"></td>
-    <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg"></td>
-    <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-      <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
+ <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg"></td>     
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg"></td>
+    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg"></td>
+    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
+      <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
  
- <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
+ <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
 </tr>
 <br></br>
 <tr align="center">
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(12).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(13).jpeg"></td>
- <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/ugWAyv.png"></td> 
-    <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(3).jpeg"></td>
-      <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(4).jpeg"></td>
-  <td valign="top"><img height="300px" width="180" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(9).jpeg"></td>     
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(12).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(13).jpeg"></td>
+ <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/ugWAyv.png"></td> 
+    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(3).jpeg"></td>
+      <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(4).jpeg"></td>
+  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(9).jpeg"></td>     
   </tr>
  </table>
 
@@ -148,39 +148,39 @@ Halal Guide is basically for Muslims that check the list of all restaurants that
 
 <table align="center">
   <tr align="center">
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722590-7ffca04a-5c34-4e33-aba7-6ace82ac5ee3.jpeg"></td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722594-924c0e6f-3057-4921-8d76-b4ab0bde381a.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722803-7d679426-877f-4d7c-8aab-9bc09ecb30b0.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722782-78f20373-e347-4563-a310-ab287210b8e7.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722789-3fa2ca96-6eb8-4572-8edb-d80d782df724.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722793-5b17a890-4e1c-4694-b94e-d1a6f4100f09.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722590-7ffca04a-5c34-4e33-aba7-6ace82ac5ee3.jpeg"></td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722594-924c0e6f-3057-4921-8d76-b4ab0bde381a.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722803-7d679426-877f-4d7c-8aab-9bc09ecb30b0.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722782-78f20373-e347-4563-a310-ab287210b8e7.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722789-3fa2ca96-6eb8-4572-8edb-d80d782df724.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722793-5b17a890-4e1c-4694-b94e-d1a6f4100f09.jpeg">       </td>
    
   </tr>
  <tr>
  
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722822-2f9bba60-9ff6-4bf6-89ee-a82f4ce38c0d.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722826-00e0074f-97ff-42f7-83ec-10af23f391c9.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722864-71354f98-22a3-4505-9eba-2a0c9d17f876.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722866-18607cd3-dea8-4b4f-abf5-541bcbf73dfe.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722859-88a2b504-d1da-4002-ac76-cb3840315838.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722833-1adc513f-edc5-4457-b2ff-4e03a8eeaadd.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722822-2f9bba60-9ff6-4bf6-89ee-a82f4ce38c0d.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722826-00e0074f-97ff-42f7-83ec-10af23f391c9.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722864-71354f98-22a3-4505-9eba-2a0c9d17f876.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722866-18607cd3-dea8-4b4f-abf5-541bcbf73dfe.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722859-88a2b504-d1da-4002-ac76-cb3840315838.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722833-1adc513f-edc5-4457-b2ff-4e03a8eeaadd.jpeg">       </td>
  
  </tr>
  <tr>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722979-61ed9658-de04-4610-93fb-ac48912bb67f.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722985-a8e74c54-95ac-4107-b42e-882a8e4262c1.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722959-dcbe4286-008b-4323-a8dc-1af9f99f04ac.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722960-5d2bdb95-92bd-4df5-964b-f345f500de12.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722962-152965cb-e174-4fc3-95f5-a598938f4b7e.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722964-30e95b1f-3a38-4e57-b4cd-491743232aff.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722979-61ed9658-de04-4610-93fb-ac48912bb67f.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722985-a8e74c54-95ac-4107-b42e-882a8e4262c1.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722959-dcbe4286-008b-4323-a8dc-1af9f99f04ac.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722960-5d2bdb95-92bd-4df5-964b-f345f500de12.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722962-152965cb-e174-4fc3-95f5-a598938f4b7e.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722964-30e95b1f-3a38-4e57-b4cd-491743232aff.jpeg">       </td>
 
  </tr>
  <tr>
  
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722911-83fc9c87-c37f-42af-a33e-a0a81fdc7b3a.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169722914-94fff9cf-5209-4421-a019-de272861b7c4.jpeg">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169728381-c869dd06-36ba-420b-9f73-ef6df758dc5a.png">       </td>
-   <td valign="top"><img height="300px" width="180" src="https://user-images.githubusercontent.com/53090286/169728392-c1037c9a-3a6c-4cbf-a323-b4996afd5ab2.png">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722911-83fc9c87-c37f-42af-a33e-a0a81fdc7b3a.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169722914-94fff9cf-5209-4421-a019-de272861b7c4.jpeg">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169728381-c869dd06-36ba-420b-9f73-ef6df758dc5a.png">       </td>
+   <td valign="top"><img height="350px" width="190" src="https://user-images.githubusercontent.com/53090286/169728392-c1037c9a-3a6c-4cbf-a323-b4996afd5ab2.png">       </td>
 
  </tr>
  </table>
