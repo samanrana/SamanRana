@@ -37,45 +37,16 @@
 
 
 
- 🔭 I’m also working on [Qvesty](https://apps.apple.com/us/app/qvesty-home-service-made-easy/id6449968394)
-
- 👨‍💻 One of my recent project is available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
-
- 💬 Ask me about **React native**
-
- 📫 Reach me **samanranaw1@gmail.com**
-
- ⚡ LinkedIn Profile [Saman Rana Cross-platform application developer](https://www.linkedin.com/in/samanrana1/)
-
 
 
 <br></br>
 
-<h2 align="center">--- Education ---</h2>
 
-💠 BS Software Engineering from Punjab University. Session (2016 - 2020) 
-
-
-<br></br>
-
-<h2 align="center">--- Experience ---</h2>
-
-💠 Currently working in [Qvesty](https://www.linkedin.com/company/qvesty/) California, USA as a Remote React Native Developer
-
-💠 Working in XDOT software house from 2022 - 2023 as a React Native Developer
-
-💠 Worked in PigslHub software house from 2019 - 2022 as a React Native and Laravel Developer
-
-💠 Worked with Technovation software house on freelancing projects of React Native
-
-💠 Working on Fiverr as a freelancing
-
-<br></br>
 
 <h2 align="center">--- Skills ---</h2>
 
-✔ JavaScript including ES6+ syntax 
 ✔ Strong experience with React Native  
+✔ JavaScript including ES6+ syntax 
 ✔ React Hooks  
 ✔ Experience Socket handling  
 ✔ Experience App tracking  
