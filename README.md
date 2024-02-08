@@ -52,8 +52,24 @@
 <br></br>
 <h3 align="center">--- Portfolio and projects ---</h3>
 
-<h1>Ecom</h1>
+<br></br>
+<br></br>
+
+<h1>Share Slate Application</h1>
+Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
+
+
+<h3>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h3>
+<br></br>
+
+<h1>Vital Pursuit Application</h1>
 Vital Pursuit is a latest health and fitness application that include training programs, movement and exercise video lectures and education to optimise performance and help prevent injury
+
+<h3>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h3>
+
+
+<h4>💠 ScreenShots </h4>
+
 
 <table align="center">
   <tr align="center">
@@ -86,55 +102,6 @@ Vital Pursuit is a latest health and fitness application that include training p
 <tr align="center">
   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(3).jpeg"></td>
   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(4).jpeg"></td>
-  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(9).jpeg"></td>     
-  </tr>
- </table>
-
-<br></br>
-<br></br>
-
-<h1>Share Slate Application</h1>
-Share Slate is a social networking application that allow you to create, share and collaborate with your contacts. Share Slate allows you to create posts, create polls, Minis, Minis's trends creation, Blogs, shops and much more to stay connected with your contacts. 
-
-
-<h3>💠 Application Links:    https://apps.apple.com/pk/app/share-slate/id6443570782</h3>
-<br></br>
-
-<h1>Vital Pursuit Application</h1>
-Vital Pursuit is a latest health and fitness application that include training programs, movement and exercise video lectures and education to optimise performance and help prevent injury
-
-<h3>💠 Application Links:    https://apps.apple.com/pk/app/vitalpursuit/id1591613705</h3>
-
-
-<h4>💠 ScreenShots </h4>
-
-
-<table align="center">
-  <tr align="center">
-   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(8).jpeg"></td>
-  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM.jpeg"></td>
-    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(1).jpeg"></td>
-   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(7).jpeg"></td>
-    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(6).jpeg"></td>
- <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(5).jpeg"></td>  
-  </tr>
- <br></br>
-  <tr align="center">
- <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(6).jpeg"></td>     
-  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(7).jpeg"></td>
-    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(8).jpeg"></td>
-    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(9).jpeg"></td>
-      <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
- 
- <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(10).jpeg"></td>
-</tr>
-<br></br>
-<tr align="center">
-  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(12).jpeg"></td>
-  <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.13%20AM%20(13).jpeg"></td>
- <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/ugWAyv.png"></td> 
-    <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(3).jpeg"></td>
-      <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(4).jpeg"></td>
   <td valign="top"><img height="350px" width="190" src="https://github.com/samanrana/SamanRana/blob/main/WhatsApp%20Image%202022-05-22%20at%201.03.14%20AM%20(9).jpeg"></td>     
   </tr>
  </table>
